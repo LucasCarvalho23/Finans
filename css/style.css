@@ -6,3 +6,21 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.menu-link-class:hover {
+    color: white;
+}
+
+#container-navbar-id {
+    text-align: center;
+}
+
+#container-navbar-id > ul > li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#container-navbar-id > ul > li:hover {
+    background-color: #fabb00;
+    border-radius: 10px;
+}
