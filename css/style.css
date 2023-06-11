@@ -28,3 +28,16 @@
 .home {
     background-color: #ffc107;
 }
+
+.box-class {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.text-class {
+text-align: center;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
